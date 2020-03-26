@@ -12,7 +12,7 @@ Sewing a Medical Style Mask | Cosiendo un Cubre-Bocas Estilo Médico:
   * [Video tutorial - Español](https://www.youtube.com/watch?v=m2AjrtiOWVA&t)
 
 ### 3D Printing
-Prusa Face Shield
-  * [Overview](./3dPrinting/PrusaFaceShield/README.md)
-  * [Guide](./3dPrinting/PrusaFaceShield/PrusaFaceShieldGuide.md)
-  * [STL Files](./3dPrinting/PrusaFaceShield/STLFiles)
+Making a Medical Style Face Shield
+  * [Overview](./3dPrinting/medicalStyleFaceShield/README.md)
+  * [Guide](./3dPrinting/medicalStyleFaceShield/PrusaFaceShieldGuide.md)
+  * [STL Files](./3dPrinting/medicalStyleFaceShield/STLFiles)
