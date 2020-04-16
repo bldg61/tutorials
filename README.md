@@ -8,6 +8,7 @@
 
 Making a No-Sew Medical Style Mask
   * [Instructions - English](./sewing/noSewTshirtMasks-English.pdf)
+  * [Instrucciones - Español](./sewing/noSewTshirtMasks-Español.pdf)
 
 Sewing a Medical Style Mask | Cosiendo un Cubre-Bocas Estilo Médico:
   * [Instructions - English](./sewing/medicalStyleMasks.pdf)
