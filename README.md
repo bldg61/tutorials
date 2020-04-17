@@ -6,7 +6,7 @@
 * [Cooking | Cocinando](#cooking)
 * [Sewing | Coser](#sewing)
 * [3D Printing](#threeD)
-* [Other Peeps links of interest](#others)
+* [Curated Resources](#curated)
 
 <h3 id="cooking">
   Cooking | Cocinando
@@ -30,7 +30,7 @@ Sewing a Medical Style Mask | Cosiendo un Cubre-Bocas Estilo Médico:
   * [Video tutorial - English](https://www.youtube.com/watch?v=OILXsg9-4OA)
   * [Video tutorial - Español](https://www.youtube.com/watch?v=m2AjrtiOWVA&t)
 
-<h3 id="cooking">
+<h3 id="threeD">
   3D Printing
 </h3>
 
@@ -39,8 +39,8 @@ Making a Medical Style Face Shield
   * [Guide](./3dPrinting/medicalStyleFaceShield/PrusaFaceShieldGuide.pdf)
   * [Part files](./3dPrinting/medicalStyleFaceShield/partFiles)
 
-<h3 id="others">
-  Other Peeps Links of Interest
+<h3 id="curated">
+  Curated Resources
 </h3>
 
 Maker Ed Blog
