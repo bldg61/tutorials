@@ -42,3 +42,6 @@ Making a Medical Style Face Shield
 <h3 id="others">
   Other Peeps Links of Interest
 </h3>
+
+Maker Ed Blog
+  * [https://makered.org/blog](https://makered.org/blog)
