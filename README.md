@@ -43,5 +43,4 @@ Making a Medical Style Face Shield
   Curated Resources
 </h3>
 
-Maker Ed Blog
-  * [https://makered.org/blog](https://makered.org/blog)
+  * [Maker Ed Blog](https://makered.org/blog)
