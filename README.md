@@ -39,6 +39,10 @@ Making a Medical Style Face Shield
   * [Guide](./3dPrinting/medicalStyleFaceShield/PrusaFaceShieldGuide.pdf)
   * [Part files](./3dPrinting/medicalStyleFaceShield/partFiles)
 
+Making Ear Savers (for Medical Masks with Ear Elastic)
+  * [Overview](./3dPrinting/earSavers/README.md)
+  * [Part file](./3dPrinting/earSavers/earSaverChain.stl)
+
 <h3 id="curated">
   Curated Resources
 </h3>
