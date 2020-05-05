@@ -41,7 +41,7 @@ Making a Medical Style Face Shield
 
 Making Ear Savers (for Medical Masks with Ear Elastic)
   * [Overview](./3dPrinting/earSavers/README.md)
-  * [Part file](./3dPrinting/earSaverChain.stl)
+  * [Part file](./3dPrinting/earSavers/earSaverChain.stl)
 
 <h3 id="curated">
   Curated Resources
